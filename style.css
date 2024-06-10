@@ -1,0 +1,116 @@
+body{
+  width: 1440px;
+  height: 1024px;
+  border: 1px solid;
+}
+b{
+  color: rgba(158, 9, 15, 1);
+}
+.img{
+  float: right;
+}
+.chikken{
+  width: 833px;
+  height: 833px;
+  position: absolute;
+  top: 111px;
+  left: 626px;
+}
+.sari{
+  width: 665px;
+  height: 1000px;
+  top: -86px;
+  margin-left: 775px;
+}
+.heading{
+  float: left;
+  position: absolute;
+  margin-top: 91px;
+  margin-left: 100px ;
+  width: 628px;
+  height: 260px ;
+}h1{
+  font-size: 78px;
+}
+.text{
+  position: absolute;
+  float: left;
+  width: 500px;
+  margin-left: 100px;
+  margin-top: 455px ;
+}
+.text p{
+  font-size: 18px;
+  color: rgba(90, 90, 90, 1);
+}
+.form1{
+  position: absolute;
+  float: left;
+  width: 196px;
+  height: 49px;
+  top: 557px;
+  left: 100px;
+  gap: 10px;
+  background: rgba(158, 9, 15, 1);
+  border-radius: 25px;
+}
+.form1 p{
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  padding: 12px, 0px, 14px, 0px,;
+}
+.form2{
+  position: absolute;
+  float: left;
+  width:  194px;
+  height:  49px;
+  top: 557px;
+  left: 309px;
+  gap: 10px;
+  border-radius: 25px;
+  background: rgba(243, 243, 243, 1);
+}
+.form2 p{
+  color: black;
+  text-align: center;
+  font-size: 18px;
+  padding: 12px, 0px, 14px, 0px,;
+}
+.salad2{
+  position: absolute;
+  float: left;
+  width: 222px;
+  height: 265.53px;
+  top: 724.59px;
+  left: 336px;
+  border-radius: 22.85px; 
+  background: rgba(158, 9, 15, 1);
+}
+.salad2 img{
+  position: absolute;
+  float: left;
+  top: -80px;
+  left: 0px; 
+}
+.salad2 p{
+  /* font-family: Outfit; */
+  font-size: 19.59px;
+  text-align: center;
+}
+.salad1{
+  position: absolute;
+  float: left;
+  width: 222px;
+  height: 265.53px;
+  top: 724.59px;
+  left: 87px;
+  border-radius: 22.85px;
+  background: rgba(255, 255, 255, 1);
+}
+.salad1 img{
+  position: absolute;
+  float: left;
+  top: -80px;
+  left: 0px;
+}
