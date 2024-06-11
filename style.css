@@ -106,11 +106,154 @@ b{
   top: 724.59px;
   left: 87px;
   border-radius: 22.85px;
-  background: rgba(255, 255, 255, 1);
+  box-shadow: 11.48px 28.7px 45.93px 0px rgba(0, 0, 0, 0.2);
+
 }
 .salad1 img{
   position: absolute;
   float: left;
   top: -80px;
   left: 0px;
+}
+.salad1 h4{
+  color: black;
+  text-align: center;
+  position: absolute;
+  margin-left: 63px;
+  margin-top: 127px;
+}
+.salad2 h4{
+  color: white;
+  text-align: center;
+  position: absolute;
+  margin-left: 63px;
+  margin-top: 127px;
+}
+.salad1 h5{
+  display: inline;
+  position: absolute;
+  margin-left: 42px;
+  margin-top: 173px;
+  font-size: 13.06px;
+  color:rgba(125, 125, 125, 1);
+}
+.salad2 h5{
+  display: inline;
+  position: absolute;
+  margin-left: 42px;
+  margin-top: 173px;
+  font-size: 13.06px;
+  color:rgba(125, 125, 125, 1);
+}
+ .salad1 .h5{
+  display: inline;
+  position: absolute;
+  margin-left: 133px;
+  margin-top: 173px;
+  font-size: 13.06px;
+  color:rgba(125, 125, 125, 1);
+}
+ .salad2 .h5{
+  display: inline;
+  position: absolute;
+  margin-left: 133px;
+  margin-top: 173px;
+  font-size: 13.06px;
+  color:rgba(125, 125, 125, 1);
+}
+h3{
+  position: absolute;
+  margin-left: 30px;
+  margin-top: 203px;
+  font-size: 17.41PX;
+}
+.salad2 h3{
+  position: absolute;
+  margin-left: 30px;
+  margin-top: 203px;
+  font-size: 17.41PX;
+  color: white;
+}
+.salad1 div{
+  width: 26.12px;
+  height: 26.12px;
+  background-color: rgba(158, 9, 15, 1);
+  border-radius: 4.35px;
+  position: absolute;
+  margin-left: 169px;
+  margin-top: 201px;
+}
+.salad2 div{
+  width: 26.12px;
+  height: 26.12px;
+  background-color: white;
+  border-radius: 4.35px;
+  position: absolute;
+  margin-left: 169px;
+  margin-top: 201px;
+}
+ h2{
+  position: absolute;
+  margin-left: 7px;
+  margin-top: 2px;  
+  color: white;
+}
+.salad2 h2{
+  position: absolute;
+  margin-left: 7px;
+  margin-top: 2px; 
+  color: rgba(158, 9, 15, 1); 
+}
+.order{
+  width: 189px;
+  height: 20.57px;
+  top: 880.49px;
+  left: 951px;
+  border-radius: 13.4px ;
+  position: absolute;
+  padding: 15px;
+  box-shadow: 11.48px 28.7px 45.93px 0px rgba(0, 0, 0, 0.2);
+
+}
+span{
+  color: rgba(158, 9, 15, 1);
+}
+.golichka{
+  width: 28.15px;
+  height: 28.15px;
+  margin-top: -20px;
+  margin-left: 158.49px;
+  border-radius: 50%;
+  background: rgba(125, 201, 79, 1);
+}
+.golichka img{
+  position: absolute;
+  margin-left: 7px;
+  margin-top: 10px;
+}
+.for{
+  width:155px;
+  height: 76.93px;
+  border-radius: 11.48px;
+  position: absolute;
+  margin-left: 736px;
+  margin-top: 206px;
+  box-shadow: 11.48px 28.7px 45.93px 0px rgba(0, 0, 0, 0.2);
+
+}
+.for h3{
+  font-size: 14px;
+  position: absolute;
+  margin-left: 14px;
+  margin-top: 50px;
+}
+.for img{
+  position: absolute;
+  margin-left: 140px;
+  margin-top: 10px;
+}
+ .for h2{
+  position: absolute;
+  margin-left: -0px;
+  margin-top: 10px;
 }
