@@ -3,6 +3,16 @@ body{
   height: 1024px;
   border: 1px solid;
 }
+nav a{
+  /* position: absolute; */
+  padding: 95px;
+  text-decoration: none;
+  color: black;
+  z-index: 5;
+}
+button{
+  z-index: 20;
+}
 b{
   color: rgba(158, 9, 15, 1);
 }
@@ -13,13 +23,16 @@ b{
   width: 833px;
   height: 833px;
   position: absolute;
+  z-index: 10;
   top: 111px;
   left: 626px;
 }
 .sari{
   width: 665px;
   height: 1000px;
-  top: -86px;
+  position: relative;
+  z-index: -1;
+  top: -30px;
   margin-left: 775px;
 }
 .heading{
@@ -236,6 +249,7 @@ span{
   height: 76.93px;
   border-radius: 11.48px;
   position: absolute;
+  z-index: 20;
   margin-left: 736px;
   margin-top: 206px;
   box-shadow: 11.48px 28.7px 45.93px 0px rgba(0, 0, 0, 0.2);
